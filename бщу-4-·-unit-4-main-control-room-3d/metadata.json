@@ -1,0 +1,6 @@
+{
+  "name": "БЩУ-4 · Unit 4 Main Control Room 3D",
+  "description": "Interactive 3D RBMK-1000 nuclear reactor simulator and Unit 4 main control room experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
